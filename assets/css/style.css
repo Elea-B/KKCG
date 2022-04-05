@@ -1,0 +1,13 @@
+.karateEnfant {
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    background-color: beige;   
+}
+.FondBeige{
+background-color:#E6E6E5;
+}
+/* mettre la couleur rouge de mon logo */ 
+#fr {
+    border: 1px solid black;
+}
